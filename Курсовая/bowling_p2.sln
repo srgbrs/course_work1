@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bowling_p2", "bowling_p2\bowling_p2.csproj", "{69011665-D400-41B8-A9D2-D050C1461AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69011665-D400-41B8-A9D2-D050C1461AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69011665-D400-41B8-A9D2-D050C1461AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69011665-D400-41B8-A9D2-D050C1461AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69011665-D400-41B8-A9D2-D050C1461AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
